@@ -1,2 +1,2 @@
-# Website of Simply Hockey
+# Simply Hockey
 Live access to Danish hockey in a simple and intuitive way.
